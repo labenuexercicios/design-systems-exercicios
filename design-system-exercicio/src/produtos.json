@@ -1,0 +1,25 @@
+[
+    {
+        "brand":"Madeirart",
+        "name":"Cadeira",
+        "priceDescount":"100",
+        "priceNormal":"120",
+        "image":"https://thumbs.dreamstime.com/b/cadeira-de-jardim-de-madeira-11661360.jpg"
+},
+    {
+        "brand":"Madeirart",
+        "name":"Cadeira",
+        "priceDescount":"95",
+        "priceNormal":"120",
+        "image":"https://thumbs.dreamstime.com/b/cadeira-de-jardim-de-madeira-11661360.jpg"
+},
+    {
+        "brand":"Madeirart",
+        "name":"Cadeira",
+        "priceDescount":"98",
+        "priceNormal":"120",
+        "image":"https://thumbs.dreamstime.com/b/cadeira-de-jardim-de-madeira-11661360.jpg"
+}
+
+]
+
